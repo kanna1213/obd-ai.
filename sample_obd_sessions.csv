@@ -1,0 +1,4 @@
+Time,Error Code,Description
+2025-06-01 12:00:00,P0300,Random/Multiple Cylinder Misfire Detected
+2025-06-01 12:05:00,P0420,Catalyst System Efficiency Below Threshold
+2025-06-01 12:10:00,P0171,System Too Lean (Bank 1)
